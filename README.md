@@ -2,7 +2,7 @@
 
 ### Scalable Cloud Storage Platform with Telegram-Backed Storage
 
-TeleDrive is a cloud storage platform designed to provide reliable file upload,
+TeleCloud is a cloud storage platform designed to provide reliable file upload,
 download, organization, and sharing capabilities while using Telegram as the
 underlying file-storage backend.
 
