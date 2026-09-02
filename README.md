@@ -1,4 +1,4 @@
-# TeleDrive
+# TeleCloud
 
 ### Scalable Cloud Storage Platform with Telegram-Backed Storage
 
